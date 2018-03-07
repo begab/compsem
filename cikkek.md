@@ -33,3 +33,7 @@ https://arxiv.org/abs/1605.09096
 
 * Evaluating the Stability of Embedding-based Word Similarities
 https://transacl.org/ojs/index.php/tacl/article/view/1202
+
+* A Corpus and Cloze Evaluation for Deeper Understanding of
+Commonsense Stories
+http://www.aclweb.org/anthology/N16-1098
