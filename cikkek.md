@@ -33,3 +33,6 @@ https://arxiv.org/abs/1605.09096
 
 * Evaluating the Stability of Embedding-based Word Similarities
 https://transacl.org/ojs/index.php/tacl/article/view/1202
+
+* Multimodal Word Distributions
+http://www.aclweb.org/anthology/P/P17/P17-1151.pdf
