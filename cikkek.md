@@ -1,6 +1,3 @@
-* Multi-Sense Embeddings Improve Natural Language Understanding?
- https://arxiv.org/abs/1506.01070
-
 * Improving Distributional Similarity with Lessons Learned from Word Embeddings
  https://transacl.org/ojs/index.php/tacl/article/view/570
 
@@ -12,6 +9,9 @@
 
 * Issues in Evaluating Semantic Spaces Using Word Analogies
  https://arxiv.org/abs/1606.07736
+
+* Multi-Sense Embeddings Improve Natural Language Understanding?
+ https://arxiv.org/abs/1506.01070
 
 * Distributional vectors encode referential attributes
  http://aclweb.org/anthology/D15-1002.pdf
@@ -25,7 +25,7 @@
 * SPINE: SParse Interpretable Neural Embeddings
  https://arxiv.org/abs/1711.08792
 
- * Dynamic Word Embeddings for Evolving Semantic Discovery
+* Dynamic Word Embeddings for Evolving Semantic Discovery
  https://arxiv.org/abs/1703.00607
 
 * Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change
@@ -33,6 +33,10 @@ https://arxiv.org/abs/1605.09096
 
 * Evaluating the Stability of Embedding-based Word Similarities
 https://transacl.org/ojs/index.php/tacl/article/view/1202
+
+* A Corpus and Cloze Evaluation for Deeper Understanding of
+Commonsense Stories
+http://www.aclweb.org/anthology/N16-1098
 
 * Multimodal Word Distributions
 http://www.aclweb.org/anthology/P/P17/P17-1151.pdf
