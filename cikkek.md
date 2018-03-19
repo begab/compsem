@@ -1,9 +1,6 @@
 * Annotation Artifacts in Natural Language Inference Data
 https://arxiv.org/abs/1803.02324
 
-* Multi-Sense Embeddings Improve Natural Language Understanding?
- https://arxiv.org/abs/1506.01070
-
 * Improving Distributional Similarity with Lessons Learned from Word Embeddings
  https://transacl.org/ojs/index.php/tacl/article/view/570
 
@@ -16,7 +13,7 @@ https://arxiv.org/abs/1803.02324
 * Issues in Evaluating Semantic Spaces Using Word Analogies
  https://arxiv.org/abs/1606.07736
 
-* Multi-Sense Embeddings Improve Natural Language Understanding?
+* Do Multi-Sense Embeddings Improve Natural Language Understanding?
  https://arxiv.org/abs/1506.01070
 
 * Distributional vectors encode referential attributes
