@@ -1,3 +1,6 @@
+* Annotation Artifacts in Natural Language Inference Data
+https://arxiv.org/abs/1803.02324
+
 * Multi-Sense Embeddings Improve Natural Language Understanding?
  https://arxiv.org/abs/1506.01070
 
