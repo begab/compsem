@@ -46,3 +46,6 @@ http://www.aclweb.org/anthology/P/P17/P17-1151.pdf
 
 * Do Supervised Distributional Methods Really Learn Lexical Inference Relations?
 http://www.aclweb.org/anthology/N/N15/N15-1098.pdf
+
+* Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings
+http://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf
