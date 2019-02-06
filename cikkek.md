@@ -1,3 +1,15 @@
+* Pay Attention to the Ending:Strong Neural Baselines for the ROC Story Cloze Task
+https://aclanthology.info/papers/P17-2097/p17-2097
+
+* A Simple but Tough-to-Beat Baseline for Sentence Embeddings 
+https://openreview.net/forum?id=SyK00v5xx
+
+* Loss in Translation: Learning Bilingual Word Mapping with a Retrieval Criterion
+https://aclweb.org/anthology/D18-1330
+
+* Uncovering Divergent Linguistic Information in Word Embeddings with Lessons for Intrinsic and Extrinsic Evaluation
+https://aclanthology.info/papers/K18-1028/k18-1028
+
 * Annotation Artifacts in Natural Language Inference Data
 https://arxiv.org/abs/1803.02324
 
