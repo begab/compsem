@@ -1,4 +1,8 @@
-1. [Pay Attention to the Ending:Strong Neural Baselines for the ROC Story Cloze Task](https://aclanthology.info/papers/P17-2097/p17-2097)
+1. [What you can cram into a single vector: Probing sentence embeddings for linguistic properties](https://aclweb.org/anthology/papers/P/P18/P18-1198/)
+
+1. [A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors](https://aclweb.org/anthology/papers/P/P18/P18-1002/)
+
+1. [Pay Attention to the Ending: Strong Neural Baselines for the ROC Story Cloze Task](https://aclanthology.info/papers/P17-2097/p17-2097)
 
 1. [A Simple but Tough-to-Beat Baseline for Sentence Embeddings](https://openreview.net/forum?id=SyK00v5xx)
 
