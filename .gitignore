@@ -1,5 +1,9 @@
 *.gz
+*.pkl
+*.dic
 *.odp
+*.json
+*.hdf5
 .ipynb_checkpoints
 *-sol.ipynb
 *odp#
