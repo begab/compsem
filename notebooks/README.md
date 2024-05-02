@@ -1,15 +1,3 @@
-# Számítógépes szemantika
+# Számítógépes szemantika colab notebookok
 
-## Tervezett tematika
-* Python alapozás
-* Optimalizálási alapozás
-* "Klasszikus" szemantikus reprezentációk: vektortér modell, látens szemantikus indexelés
-* Klaszterezés alapú jelentésbeazonosítás
-* Prediktív modellek a jelentésreprezentációra (word2vec modellek)
-* Alternatív jelentésreprezentációk I. (glove és tudáshálók)
-* Alternatív jelentésreprezentációk II. (glove és tudáshálók)
-* A többnyelvűség kezelése a jelentésreprezentációban (biSkip, BiCVM, biCCA, BiVCD modellek)
-* Ritka szóreprezentációk és alkalmazásaik
-* Szóreprezentációkon alapuló fogalomtanulás
-* Kompozicionalitás, mondat szintű reprezentációk
-* Mondat/bekezdés/dokumentum szintű reprezentációk 
+A félév során használt colab notebookok gyűjteménye [ezen a linken](https://drive.google.com/drive/folders/1MyIYrDh0JI97uNidwQ6kl2Fiy-GeJfMe?usp=drive_link) keresztül érhető el.
